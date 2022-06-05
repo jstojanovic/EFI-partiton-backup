@@ -1,2 +1,4 @@
-# hello_world
-Kreiranje Repozitorija
+# EFI backup
+Sadrzi 
+  iso: /dev/sda1
+  dir: /EFI
